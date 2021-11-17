@@ -1,5 +1,5 @@
 /*
- * Buenas tardes
+ * Buenas tardes :)
  */
 package Estructura;
 
